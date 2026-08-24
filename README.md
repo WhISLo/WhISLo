@@ -39,13 +39,6 @@
 
 ---
 
-### 📈 Статистика
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WhISLo)](https://github.com/WhISLo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhISLo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### 📫 Связаться со мной
 
